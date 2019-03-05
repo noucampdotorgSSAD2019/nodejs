@@ -3,7 +3,7 @@
 
 ## Clone the Remote Repository
 
-1.	Accept the GitHub Classroom invitation to this exercise on BlackBoard @ ``WEBD_CP803: Website Development (2018/19) > Content > NodeJS``
+1.	Accept the GitHub Classroom invitation to this exercise on BlackBoard
 
 1.	Copy the clone URL from your new repository ``nodejs-<YOURACCOUNT>``
 
