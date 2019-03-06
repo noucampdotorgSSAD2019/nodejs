@@ -6,7 +6,7 @@
 
 ```
 $ cd /DRIVE/xampp/htdocs/nodejs
-$ git pull --no-edit https://github.com/noucampdotorgWD12018/nodejs.git latest
+$ git pull --no-edit https://github.com/noucampdotorgSSAD2019/nodejs.git latest
 $ git status
 
 ```
